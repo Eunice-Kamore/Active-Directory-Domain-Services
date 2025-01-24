@@ -76,7 +76,7 @@ To do this, open "Network & Internet" settings, then click on "Change Adapter Se
    <br />
 
       
-Disable "IPv6" since we are using IPV4 by unchecking the box. Then click on "IPv4" and choose "Properties" and click "Okay".
+Disable "IPv6" since we are using IPV4 by unchecking the box. Then click on "IPv4" and choose "Properties" and click "OK".
 
 
 9. 
@@ -84,6 +84,7 @@ Disable "IPv6" since we are using IPV4 by unchecking the box. Then click on "IPv
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%209.png?raw=true" width="400px"/>
    <br />
    <br />
+   
 Let's check the current network configuration information by running "ipconfig" on command prompt. We have to run command prompt as a "Administrator" to get the rights.
 
 10.
@@ -179,7 +180,7 @@ Click "Next"
 
 Finally select “Install”.
 
-20.
+21.
  
   <p align="center">
   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step19.png?raw=true" width="400px"/>
@@ -188,7 +189,7 @@ Finally select “Install”.
 
 Once the installation is complete, select “Promote this server to a domain controller” option. This configures our server to a domain controller.
 
-21.
+22.
   
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step20.png?raw=true" width="400px"/>
@@ -198,7 +199,7 @@ Once the installation is complete, select “Promote this server to a domain con
 Incase you click "Close" you can still find the link under "Tasks" tab at the top.
 
       
-22.
+23.
 
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step21.png?raw=true" width="400px"/>
@@ -208,7 +209,7 @@ Incase you click "Close" you can still find the link under "Tasks" tab at the to
 Select "Add a new forest" and enter your preferred domain name and it should be in the form of "******.com". We will use "junicetechie.com" as our root domain name. Then click "Next" to proceed.
 
 
-23.
+24.
 
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step22.png?raw=true" width="400px"/>
@@ -217,7 +218,7 @@ Select "Add a new forest" and enter your preferred domain name and it should be 
 
 Create a password for our Directory Service Restore Mode (DSRM) then click “Next”. 
 
-24.
+25.
 
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step23.png?raw=true" width="400px"/>
@@ -227,7 +228,7 @@ Create a password for our Directory Service Restore Mode (DSRM) then click “Ne
 Click “Next” then “Install”.
 
 
-25.
+26.
 
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step24.png?raw=true" width="400px"/>
@@ -236,7 +237,7 @@ Click “Next” then “Install”.
    
 NetBIOS name is auto-filled. Click "Next" to proceed.
 
-26.
+27.
 
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step25.png?raw=true" width="400px"/>
@@ -244,7 +245,7 @@ NetBIOS name is auto-filled. Click "Next" to proceed.
    <br />
 
    
-27.
+28.
 
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step26.png?raw=true" width="400px"/>
@@ -263,7 +264,7 @@ NetBIOS name is auto-filled. Click "Next" to proceed.
 All prerequisite checks have passed and we are ready to install. Click "Install" button to begin installation.
 
 
-29.
+28.
 
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step28.png?raw=true" width="400px"/>
