@@ -168,6 +168,7 @@ Click "Next"
    
 
 Finally select “Install”.
+
 20.
   <p align="center">
   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step19.png?raw=true" width="400px"/>
@@ -175,11 +176,13 @@ Finally select “Install”.
   <br />
 
 Once the installation is complete, select “Promote this server to a domain controller” option. This configures our server to a domain controller.
+
 21.
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step20.png?raw=true" width="400px"/>
    <br />
    <br />
+   
 Incase you click "Close" you can still find the link under "Tasks" tab at the top.
 
       
@@ -188,19 +191,21 @@ Incase you click "Close" you can still find the link under "Tasks" tab at the to
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step21.png?raw=true" width="400px"/>
    <br />
    <br />
+   
 Select "Add a new forest" and enter your preferred domain name and it should be in the form of "******.com". We will use "junicetechie.com" as our root domain name. Then click "Next" to proceed.
 
 
 23.
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step22.png?raw=true"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step22.png?raw=true" width="400px"/>
    <br />
    <br />
 
 Create a password for our Directory Service Restore Mode (DSRM) then click “Next”. 
+
 24.
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step23.png?raw=true"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step23.png?raw=true" width="400px"/>
    <br />
    <br />
 
@@ -212,33 +217,36 @@ Click “Next” then “Install”.
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step24.png?raw=true" width="400px"/>
    <br />
    <br />
+   
 NetBIOS name is auto-filled. Click "Next" to proceed.
 
 26.
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step25.png?raw=true" width="100px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step25.png?raw=true" width="400px"/>
    <br />
    <br />
 
    
 27.
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step26.png?raw=true" width="100px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step26.png?raw=true" width="400px"/>
    <br />
    <br />
 
    
 28.
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step27.png?raw=true" width="100px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step27.png?raw=true" width="400px"/>
    <br />
    <br />
+
+   
 All prerequisite checks have passed and we are ready to install. Click "Install" button to begin installation.
 
 
 29.
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step28.png?raw=true" width="100px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step28.png?raw=true" width="400px"/>
    <br />
    <br />
 
@@ -247,7 +255,7 @@ After installation of Active Directory Domain Services is complete, the virtual 
 
 30.
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step30.png?raw=true" width="100px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step30.png?raw=true" width="400px"/>
    <br />
    <br />
 We can confirm that we are in the domain that we set earlier.
@@ -255,7 +263,7 @@ We can confirm that we are in the domain that we set earlier.
 
 31. 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step31.png?raw=true" width="100px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step31.png?raw=true" width="400px"/>
    <br />
    <br />
 
