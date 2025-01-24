@@ -69,7 +69,7 @@ To do this, open "Network & Internet" settings, then click on "Change Adapter Se
    <br />
 
    
- 8. 
+8. 
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%208.png?raw=true" width="400px"/>
    <br />
@@ -93,11 +93,12 @@ Let's check the current network configuration information by running "ipconfig" 
    <br />
    <br />
 
- 
- 11.  <p align="center">
+11.
+   <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2011.png?raw=true" width="400px"/>
    <br />
    <br />
+   
 Check the "Use the following IP Address" then input the above information. We will use our primary IP Address "10.0.2.15"as the "Preferred DNS server" as later on, we will use it as a DNS server. Then click "OK" in this page and the next one to save the changes.
 
 
@@ -106,6 +107,8 @@ Check the "Use the following IP Address" then input the above information. We wi
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2012.png?raw=true" width="400px"/>
    <br />
    <br />
+
+   
 Next, we will install Active Directory role on our Server2022. Open Server Manager, click on "Manage" in the top right corner, then select "Add Roles and Features." Click "Next," then choose "Role-based or feature-based installation" and click "Next" again to proceed.
 
 
@@ -114,14 +117,16 @@ Next, we will install Active Directory role on our Server2022. Open Server Manag
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2013.png?raw=true" width="400px"/>
    <br />
    <br />
-Click "Next"
 
+   
+Click "Next"
 
 14.
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2014.png?raw=true" width="400px"/>
    <br />
    <br />
+   
 Select the name of your computer and click "Next"
 
 
