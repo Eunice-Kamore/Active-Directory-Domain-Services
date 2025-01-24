@@ -264,7 +264,7 @@ NetBIOS name is auto-filled. Click "Next" to proceed.
 All prerequisite checks have passed and we are ready to install. Click "Install" button to begin installation.
 
 
-28.
+29.
 
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step28.png?raw=true" width="400px"/>
@@ -274,7 +274,7 @@ All prerequisite checks have passed and we are ready to install. Click "Install"
 After installation of Active Directory Domain Services is complete, the virtual machine will restart. Once the restart is complete, sign back in by selecting "Input" and clicking the "Ctrl + Alt + Del" button. You will notice that the login page has changed showing "JUNICETECHIE\Administrator." This confirms that the installation and domain controller promotion was successful.Go ahead and sign in to your account using the admin credentials to login in to our domain controller.
 
 
-30.
+31.
 
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step30.png?raw=true" width="400px"/>
@@ -283,7 +283,7 @@ After installation of Active Directory Domain Services is complete, the virtual 
 We can confirm that we are in the domain that we set earlier.
 
 
-31. 
+32. 
    
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step31.png?raw=true" width="400px"/>
