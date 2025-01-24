@@ -86,14 +86,15 @@ Disable "IPv6" since we are using IPV4 by unchecking the box. Then click on "IPv
    <br />
 Let's check the current network configuration information by running "ipconfig" on command prompt. We have to run command prompt as a "Administrator" to get the rights.
 
-
 10.
+
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2010.png?raw=true" width="400px"/>
    <br />
    <br />
 
 11.
+
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2011.png?raw=true" width="400px"/>
    <br />
@@ -103,6 +104,7 @@ Check the "Use the following IP Address" then input the above information. We wi
 
 
 12.
+
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2012.png?raw=true" width="400px"/>
    <br />
@@ -113,6 +115,7 @@ Next, we will install Active Directory role on our Server2022. Open Server Manag
 
 
 13.
+
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2013.png?raw=true" width="400px"/>
    <br />
@@ -122,6 +125,7 @@ Next, we will install Active Directory role on our Server2022. Open Server Manag
 Click "Next"
 
 14.
+
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2014.png?raw=true" width="400px"/>
    <br />
@@ -131,6 +135,7 @@ Select the name of your computer and click "Next"
 
 
 15.
+  
   <p align="center">
   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2015.png?raw=true" width="400px"/>
   <br />
@@ -139,6 +144,7 @@ Select "Active Directory Domain Services," then click "Add Features" when prompt
 
      
 16.
+
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2016.png?raw=true" width="400px"/>
    <br />
@@ -146,21 +152,25 @@ Select "Active Directory Domain Services," then click "Add Features" when prompt
 
    
 17.
+
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step32.PNG?raw=true" width="400px"/>
    <br />
    <br />
+   
 Click "Next"
 
 
 18.
+
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step17.png?raw=true" width="400px" />
    <br />
    <br />
 
    
-19.
+20.
+
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step18.png?raw=true" width="400px"/>
    <br />
@@ -170,6 +180,7 @@ Click "Next"
 Finally select “Install”.
 
 20.
+ 
   <p align="center">
   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step19.png?raw=true" width="400px"/>
   <br />
@@ -178,6 +189,7 @@ Finally select “Install”.
 Once the installation is complete, select “Promote this server to a domain controller” option. This configures our server to a domain controller.
 
 21.
+  
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step20.png?raw=true" width="400px"/>
    <br />
@@ -187,6 +199,7 @@ Incase you click "Close" you can still find the link under "Tasks" tab at the to
 
       
 22.
+
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step21.png?raw=true" width="400px"/>
    <br />
@@ -196,6 +209,7 @@ Select "Add a new forest" and enter your preferred domain name and it should be 
 
 
 23.
+
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step22.png?raw=true" width="400px"/>
    <br />
@@ -204,6 +218,7 @@ Select "Add a new forest" and enter your preferred domain name and it should be 
 Create a password for our Directory Service Restore Mode (DSRM) then click “Next”. 
 
 24.
+
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step23.png?raw=true" width="400px"/>
    <br />
@@ -213,6 +228,7 @@ Click “Next” then “Install”.
 
 
 25.
+
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step24.png?raw=true" width="400px"/>
    <br />
@@ -221,6 +237,7 @@ Click “Next” then “Install”.
 NetBIOS name is auto-filled. Click "Next" to proceed.
 
 26.
+
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step25.png?raw=true" width="400px"/>
    <br />
@@ -228,13 +245,15 @@ NetBIOS name is auto-filled. Click "Next" to proceed.
 
    
 27.
+
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step26.png?raw=true" width="400px"/>
    <br />
    <br />
 
    
-28.
+29.
+
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step27.png?raw=true" width="400px"/>
    <br />
@@ -245,6 +264,7 @@ All prerequisite checks have passed and we are ready to install. Click "Install"
 
 
 29.
+
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step28.png?raw=true" width="400px"/>
    <br />
@@ -254,6 +274,7 @@ After installation of Active Directory Domain Services is complete, the virtual 
 
 
 30.
+
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step30.png?raw=true" width="400px"/>
    <br />
@@ -262,6 +283,7 @@ We can confirm that we are in the domain that we set earlier.
 
 
 31. 
+   
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step31.png?raw=true" width="400px"/>
    <br />
