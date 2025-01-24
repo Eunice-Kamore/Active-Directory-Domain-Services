@@ -21,17 +21,23 @@ To begin we will login to our server and navigate to "Windows Explorer" and then
 
    
 As you can see, the current name of the computer is quite hard to recognize, so to change this click on the "Rename this PC" box and proceed to input a preferred name. We will name it DC01 to identify our server as our domain controller.
+
+
 2.
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%20Two.png?raw=true" width="400px"/>
    <br />
    <br />
-Click "Next" and the restart the virtual computer for the changes to take place.     
+Click "Next" and the restart the virtual computer for the changes to take place. 
+
+
 3. 
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%20Three.png?raw=true" width="400px"/>
    <br />
    <br />
+
+   
 4. 
    <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%20Four.png?raw=true" width="400px"/>
