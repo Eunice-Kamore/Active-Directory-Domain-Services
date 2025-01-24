@@ -13,10 +13,13 @@ This repository documents a comprehensive home lab project focused on installing
 This lab shows a step-by-step procedure of renaming our server, the we will install Active Directory Domain Services and promote our server to act as a domain controller.
 To begin we will login to our server and navigate to "Windows Explorer" and then to "This PC" icon. Right click on it and choose the "Properties" option at the bottom of the menu options. This will open the "About" page of our computer.
 
-1. <p align="center">
+1.
+   <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%20One.png?raw=true" width="400px"/>
    <br />
    <br />
+
+   
 As you can see, the current name of the computer is quite hard to recognize, so to change this click on the "Rename this PC" box and proceed to input a preferred name. We will name it DC01 to identify our server as our domain controller.
 2. <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%20Two.png?raw=true" width="400px"/>
@@ -165,7 +168,7 @@ After installation of Active Directory Domain Services is complete, the virtual 
    <br />
    <br />
 We can confirm that we are in the domain that we set earlier.
-31.<p align="center">
+31. <p align="center">
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step31.png?raw=true" width="100px"/>
    <br />
    <br />
