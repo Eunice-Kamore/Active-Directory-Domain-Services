@@ -280,6 +280,7 @@ After installation of Active Directory Domain Services is complete, the virtual 
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step30.png?raw=true" width="400px"/>
    <br />
    <br />
+   
 We can confirm that we are in the domain that we set earlier.
 
 
