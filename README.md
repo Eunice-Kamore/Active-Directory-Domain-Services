@@ -294,7 +294,6 @@ We can confirm that we are in the domain that we set earlier.
 Well done!!We have successfully configured a domain controller "junicetechie.com" with Active Directory installed!! 
 
 
- 👉 [Next Lab 3 : Active Directory Account Creation, CMD Commands](https://github.com/Simokid/Active-Directory-Account-Creation-CMD-Commands)
 
 
 
