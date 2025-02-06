@@ -15,7 +15,7 @@ To begin we will login to our server and navigate to "Windows Explorer" and then
 
 1.
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%20One.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%20One.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
 
@@ -25,7 +25,7 @@ As you can see, the current name of the computer is quite hard to recognize, so 
 
 2.
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%20Two.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%20Two.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
 Click "Next" and the restart the virtual computer for the changes to take place. 
@@ -33,14 +33,14 @@ Click "Next" and the restart the virtual computer for the changes to take place.
 
 3. 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%20Three.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%20Three.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
 
    
 4. 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%20Four.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%20Four.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
 Now we can confirm that the name of our computer has changed to "DC01".
@@ -48,7 +48,7 @@ Now we can confirm that the name of our computer has changed to "DC01".
 
 5. 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%20Five.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%20Five.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
 The next step, we will assign a static IP Address to our server before we promote it to act as a domain controller. This will enable us to join other computers our domain and we need an IP Address to refer to and leaving the "DCHP" settings on will keep changing the IP Address.
@@ -57,21 +57,21 @@ To do this, open "Network & Internet" settings, then click on "Change Adapter Se
 
 6. 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%206.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%206.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
 
    
 7. 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%207.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%207.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
 
    
 8. 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%208.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%208.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
 
@@ -81,7 +81,7 @@ Disable "IPv6" since we are using IPV4 by unchecking the box. Then click on "IPv
 
 9. 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%209.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%209.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
    
@@ -90,14 +90,14 @@ Let's check the current network configuration information by running "ipconfig" 
 10.
 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2010.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2010.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
 
 11.
 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2011.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2011.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
    
@@ -107,7 +107,7 @@ Check the "Use the following IP Address" then input the above information. We wi
 12.
 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2012.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2012.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
 
@@ -118,7 +118,7 @@ Next, we will install Active Directory role on our Server2022. Open Server Manag
 13.
 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2013.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2013.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
 
@@ -128,7 +128,7 @@ Click "Next"
 14.
 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2014.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2014.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
    
@@ -138,7 +138,7 @@ Select the name of your computer and click "Next"
 15.
   
   <p align="center">
-  <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2015.png?raw=true" width="400px"/>
+  <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2015.png?raw=true" height="80%" width="80%"/>
   <br />
   <br />
 Select "Active Directory Domain Services," then click "Add Features" when prompted. After that, click "Next" to continue.
@@ -147,7 +147,7 @@ Select "Active Directory Domain Services," then click "Add Features" when prompt
 16.
 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2016.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%2016.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
 
@@ -155,7 +155,7 @@ Select "Active Directory Domain Services," then click "Add Features" when prompt
 17.
 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step32.PNG?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step32.PNG?raw=true" height="80%" width="80%"/>
    <br />
    <br />
    
@@ -165,7 +165,7 @@ Click "Next"
 18.
 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step17.png?raw=true" width="400px" />
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step17.png?raw=true" height="80%" width="80%" />
    <br />
    <br />
 
@@ -173,7 +173,7 @@ Click "Next"
 20.
 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step18.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step18.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
    
@@ -183,7 +183,7 @@ Finally select “Install”.
 21.
  
   <p align="center">
-  <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step19.png?raw=true" width="400px"/>
+  <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step19.png?raw=true" height="80%" width="80%"/>
   <br />
   <br />
 
@@ -192,7 +192,7 @@ Once the installation is complete, select “Promote this server to a domain con
 22.
   
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step20.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step20.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
    
@@ -202,7 +202,7 @@ Incase you click "Close" you can still find the link under "Tasks" tab at the to
 23.
 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step21.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step21.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
    
@@ -212,7 +212,7 @@ Select "Add a new forest" and enter your preferred domain name and it should be 
 24.
 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step22.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step22.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
 
@@ -221,7 +221,7 @@ Create a password for our Directory Service Restore Mode (DSRM) then click “Ne
 25.
 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step23.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step23.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
 
@@ -231,7 +231,7 @@ Click “Next” then “Install”.
 26.
 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step24.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step24.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
    
@@ -240,7 +240,7 @@ NetBIOS name is auto-filled. Click "Next" to proceed.
 27.
 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step25.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step25.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
 
@@ -248,7 +248,7 @@ NetBIOS name is auto-filled. Click "Next" to proceed.
 28.
 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step26.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step26.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
 
@@ -256,7 +256,7 @@ NetBIOS name is auto-filled. Click "Next" to proceed.
 29.
 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step27.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step27.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
 
@@ -267,7 +267,7 @@ All prerequisite checks have passed and we are ready to install. Click "Install"
 29.
 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step28.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step28.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
 
@@ -277,7 +277,7 @@ After installation of Active Directory Domain Services is complete, the virtual 
 31.
 
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step30.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step30.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
    
@@ -287,7 +287,7 @@ We can confirm that we are in the domain that we set earlier.
 32. 
    
    <p align="center">
-   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step31.png?raw=true" width="400px"/>
+   <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step31.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
 
