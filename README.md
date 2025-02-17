@@ -28,6 +28,7 @@ As you can see, the current name of the computer is quite hard to recognize, so 
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%20Two.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
+   
 Click "Next" and the restart the virtual computer for the changes to take place. 
 
 
@@ -43,6 +44,7 @@ Click "Next" and the restart the virtual computer for the changes to take place.
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%20Four.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
+   
 Now we can confirm that the name of our computer has changed to "DC01".
 
 
@@ -51,6 +53,7 @@ Now we can confirm that the name of our computer has changed to "DC01".
    <img src="https://github.com/Eunice-Kamore/Active-Directory-Domain-Services/blob/main/Files/Step%20Five.png?raw=true" height="80%" width="80%"/>
    <br />
    <br />
+   
 The next step, we will assign a static IP Address to our server before we promote it to act as a domain controller. This will enable us to join other computers our domain and we need an IP Address to refer to and leaving the "DCHP" settings on will keep changing the IP Address.
 To do this, open "Network & Internet" settings, then click on "Change Adapter Settings". Once, on the next page right-click on "Ethernet" and the click on "Properties" to open the IP configuration console.
 
